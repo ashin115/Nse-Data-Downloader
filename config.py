@@ -1,0 +1,2 @@
+SYMBOL = "NIFTY"
+REFRESH_INTERVAL = 5  # in seconds
